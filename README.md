@@ -7,7 +7,10 @@ You're an IT administrator for a media production company that uses Network-Atta
 What you'll do
 
    Identify what limits the system performance: I/O, Network, CPU, or Memory
+
    Use rsync command instead of cp to transfer data
+
    Get system standard output and manipulate the output
+
    Find differences between threading and multiprocessing
 
